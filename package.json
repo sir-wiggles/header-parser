@@ -1,0 +1,22 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "fcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sir-wiggles/header-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sir-wiggles/header-parser/issues"
+  },
+  "homepage": "https://github.com/sir-wiggles/header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
